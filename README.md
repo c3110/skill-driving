@@ -39,6 +39,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [离合器知多少](docs/机动车基础知识/离合器知多少.md)
     * [后视镜知多少](docs/机动车基础知识/后视镜知多少.md)
     * [方向盘知多少](docs/机动车基础知识/方向盘知多少.md)
+    * [刹车知多少](docs/机动车基础知识/刹车知多少.md)
+    * [油门知多少](docs/机动车基础知识/油门知多少.md)
     * [训练车型](docs/机动车基础知识/训练车型.md)
     * [小型C1手动挡](docs/机动车基础知识/小型C1手动挡.md)
 * [科目二](docs/科目二.md)
