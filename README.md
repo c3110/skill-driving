@@ -40,8 +40,15 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [刹车知多少](docs/机动车基础知识/刹车知多少.md)
     * [abs知多少](docs/机动车基础知识/abs知多少.md)
     * [油门知多少](docs/机动车基础知识/油门知多少.md)
+    * [档位知多少](docs/机动车基础知识/档位知多少.md)
+    * [手刹知多少](docs/机动车基础知识/手刹知多少.md)
+    * [速度表和转速表知多少](docs/机动车基础知识/速度表和转速表知多少.md)
     * [训练车型](docs/机动车基础知识/训练车型.md)
+    * [坐姿知多少](docs/机动车基础知识/坐姿知多少.md)
+    * [神奇的车感](docs/机动车基础知识/神奇的车感.md)
+    * [雨刮的妙用](docs/机动车基础知识/雨刮的妙用.md)
     * [小型C1手动挡](docs/机动车基础知识/小型C1手动挡.md)
+    * [桑塔纳](docs/机动车基础知识/桑塔纳.md)
 * [科目二](docs/科目二.md)
     * [倒车入库](docs/科目二/倒车入库.md)
     * [侧方停车](docs/科目二/侧方停车.md)
@@ -52,7 +59,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [学车模拟器](docs/学车模拟器.md)
     * [墨泥驾考软件](docs/学车模拟器/墨泥驾考软件.md)
 * [绕口令](docs/绕口令.md)
-
 
 ## 参考教程
 
