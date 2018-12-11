@@ -71,9 +71,12 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [路口左转弯](docs/科目三/路口左转弯.md)
     * [路口右转弯](docs/科目三/路口右转弯.md)
     * [靠边停车](docs/科目三/靠边停车.md)
+* [科目四](docs/科目四.md)
+    * [科目四易错点记忆](docs/科目四/科目四易错点记忆.md)
 * [学车模拟器](docs/学车模拟器.md)
     * [墨泥驾考软件](docs/学车模拟器/墨泥驾考软件.md)
 * [绕口令](docs/绕口令.md)
+
 
 ## 参考教程
 
