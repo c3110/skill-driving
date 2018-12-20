@@ -10,13 +10,6 @@ First, please watch or star this repo, I'll be more happy if you follow me.
 Bug report, questions and discussion are welcome, you can post an issue or pull a request.
 ```
 
-## 考试大纲
-
-![1541119909896.png](image/1541119909896.png)
-
-![1541119919576.png](image/1541119919576.png)
-
-
 ## 目录
 
 * [读我](README.md)
@@ -57,6 +50,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [陡坡定点停车与起步](docs/科目二/陡坡定点停车与起步.md)
 * [科目三](docs/科目三.md)
     * [模拟夜间场景灯光使用](docs/科目三/模拟夜间场景灯光使用.md)
+    * [上车准备](docs/科目三/上车准备.md)
     * [起步](docs/科目三/起步.md)
     * [变更车道](docs/科目三/变更车道.md)
     * [直线行驶](docs/科目三/直线行驶.md)
@@ -71,12 +65,23 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [路口左转弯](docs/科目三/路口左转弯.md)
     * [路口右转弯](docs/科目三/路口右转弯.md)
     * [靠边停车](docs/科目三/靠边停车.md)
+    * [桑塔纳照片](docs/科目三/桑塔纳照片.md)
+    * [科目三易错点汇总](docs/科目三/科目三易错点汇总.md)
+    * [手动变速器原理](docs/科目三/手动变速器原理.md)
 * [科目四](docs/科目四.md)
     * [科目四易错点记忆](docs/科目四/科目四易错点记忆.md)
+    * [常错题](docs/科目四/常错题.md)
 * [学车模拟器](docs/学车模拟器.md)
     * [墨泥驾考软件](docs/学车模拟器/墨泥驾考软件.md)
 * [绕口令](docs/绕口令.md)
+* [学车记录](docs/学车记录.md)
+* [考场信息](docs/考场信息.md)
 
+## 考试大纲
+
+![1541119909896.png](image/1541119909896.png)
+
+![1541119919576.png](image/1541119919576.png)
 
 ## 参考教程
 
