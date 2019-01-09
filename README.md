@@ -83,6 +83,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [墨泥驾考软件](docs/学车模拟器/墨泥驾考软件.md)
 * [绕口令](docs/绕口令.md)
 * [学车记录](docs/学车记录.md)
+* [考试记录](考试记录.md)
 * [考场信息](docs/考场信息.md)
 
 ## 考试大纲
